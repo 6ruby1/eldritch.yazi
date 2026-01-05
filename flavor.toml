@@ -7,7 +7,7 @@ find_position = { fg = "#f265b5", bg = "reset", bold = true, italic = true }
 symlink_target = { italic = true }
 marker_copied = { fg = "#37f499", bg = "#37f499" }
 marker_cut = { fg = "#f16c75", bg = "#f16c75" }
-marker_marked = { fg = "#04d1f9", bg = "#04d1f9" }
+marker_marked = { fg = "#a48cf2", bg = "#a48cf2" }
 marker_selected = { fg = "#f7c67f", bg = "#f7c67f" }
 count_copied = { fg = "#212337", bg = "#37f499" }
 count_cut = { fg = "#212337", bg = "#f16c75" }
